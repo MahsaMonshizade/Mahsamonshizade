@@ -27,6 +27,5 @@ I work at the intersection of **machine learning, generative AI, and computation
 
 
 📫 [LinkedIn](https://linkedin.com/in/mahsa-monshizadeh) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=O4yhhT8AAAAJ&hl=en)
-## Links
 
 
